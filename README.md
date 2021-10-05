@@ -1,6 +1,6 @@
 # Local PageRank Updating via Chebyshev Polynomials
 
-This repository complements our manuscript entitled 'Local PageRank Updating via Chebyshev Polynomials' by [Esteban Bautista](http://estbautista.com/) and [Matthieu Latapy](https://www-complexnetworks.lip6.fr/~latapy/) (Submitted to *Information Processing Letters*).
+This repository complements our manuscript entitled 'A Local Updating Algorithm for Personalized PageRank via Chebyshev Polynomials' by [Esteban Bautista](http://estbautista.com/) and [Matthieu Latapy](https://www-complexnetworks.lip6.fr/~latapy/) (Submitted to *Social Network Analysis and Mining*).
 
 The repository provides both the experiments reported in the paper and the code to obtain them.
 
